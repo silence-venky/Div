@@ -179,3 +179,17 @@ button:hover{
     }
     
 }
+@media screen and (max-width: 768px) {
+    .div{
+        flex-direction: column;
+        height: auto;
+    }
+    .Itachi, .Sasuke, .Naruto, .Minato{
+        width: 80%;
+        margin-bottom: 20px;
+    }
+    .iframe{
+        width: 90%;
+        margin-left: 0;
+    }
+}
